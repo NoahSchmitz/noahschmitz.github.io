@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            'Of blasters, etc.'
+tagline:          '(a work in progress)'
+description:      'A blog, for blogging about my blog. On my blog.'
+url:              http://noahschmitz.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Noah Schmitz'
+  url:            https://noahschmitz.info
 
 paginate:         5
 
