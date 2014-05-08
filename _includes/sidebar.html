@@ -25,14 +25,14 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}">Theme: Lanyon v{{ site.version }}</a>
+    <!--span class="sidebar-nav-item"></span-->
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      {% comment %} &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      {% endcomment %}<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;border-radius:0;opacity:0.8" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
     </p>
   </div>
 </div>
