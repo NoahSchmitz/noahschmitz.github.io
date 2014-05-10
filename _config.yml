@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'Of blasters, etc.'
+title:            'Of blasters, and droids.'
 tagline:          '(a work in progress)'
-description:      'A blog, for blogging about my blog. On my blog.'
+description:      'Lock the doors. And hope they don't have blasters.'
 url:              http://noahschmitz.github.io
 
 author:
