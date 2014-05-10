@@ -19,6 +19,7 @@ If you too feel a _burning_ desire to melt and cast stuff out of aluminum you ma
 In conclusion, this is honestly pretty cheap and easy. A bucket, a (metal) pipe, and a hairdrier, is all you need for the main foundry. Scrounge up some charcoal and a crucible and you are good to go!
 
 Oh and of course--be safe. I would recomend:
+
 - Welding gloves 
 - Cool Goggles
 - Tongs
