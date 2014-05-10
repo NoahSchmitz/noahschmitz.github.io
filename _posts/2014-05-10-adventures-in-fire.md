@@ -1,12 +1,12 @@
 ---
 layout: post
-published: True
+published: true
 title: Adventures in Fire.
 ---
 
 ## Aluminum Foundry Mark 1
 
-For quite some time I have wanted an Aluminum foundry. I am limited by time and resources, but after spending many hours on [backyardmetalcasting](http://www.backyardmetalcasting.com/)and random instructibles, I produced my very own ghettofabulous foundry. 
+For quite some time I have wanted an Aluminum foundry. I am limited by time and resources, but after spending many hours on [backyardmetalcasting](http://www.backyardmetalcasting.com/) and random instructibles, I produced my very own ghettofabulous foundry. 
 (Pics coming soon)
 
 ###Tips
@@ -21,8 +21,4 @@ In conclusion, this is honestly pretty cheap and easy. A bucket, a (metal) pipe,
 Oh and of course--be safe. I would recomend:
 - Welding gloves 
 - Cool Goggles
-- Tongs.
-
-
-
-
+- Tongs
