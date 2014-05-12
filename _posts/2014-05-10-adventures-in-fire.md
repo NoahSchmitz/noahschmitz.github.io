@@ -17,7 +17,7 @@ If you too feel a _burning_ desire to melt and cast stuff out of aluminum you ma
 - Hair driers with the "cool" button taped down make for a cheap and easy bellows/air source but melt a little if your connecting pipe is too short (like mine).
 - Soup cans are not a good canidate for crucibles. The internet said I could get away with it, if I only used it once, but the bottom corroded and formed a hole. Buy/make a real crucible.
 
-<img style="margin:auto;width: 300px;" src="http://drive.google.com/uc?export=view&id=0B6bvHkeOaSe-ak85ZlVpdUU1NkRDYlB2aXUxN2NWYXo5eXU4" alt="Fire!"/>
+![Fire!](http://drive.google.com/uc?export=view&id=0B6bvHkeOaSe-ak85ZlVpdUU1NkRDYlB2aXUxN2NWYXo5eXU4)
 
 In conclusion, this is honestly pretty cheap and easy. A bucket, a (metal) pipe, and a hairdrier, is all you need for the main foundry. Scrounge up some charcoal and a crucible and you are good to go!
 
@@ -27,4 +27,4 @@ Oh and of course--be safe. I would recomend:
 - Cool Goggles
 - Tongs
 
-<img style="margin:auto;width: 300px;" src="http://drive.google.com/uc?export=view&id=0B6bvHkeOaSe-c3huc3BkbndCWUVaSWlTb3JrWDZLLVdiQjRv" alt="Safety First"/>
+![Safety First](http://drive.google.com/uc?export=view&id=0B6bvHkeOaSe-c3huc3BkbndCWUVaSWlTb3JrWDZLLVdiQjRv)
