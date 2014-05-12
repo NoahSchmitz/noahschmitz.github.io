@@ -28,6 +28,12 @@
  */
 
 
+/* My stuff */
+img {
+  max-width: 100%;
+  /*box-shadow: 1;*/
+}
+
 /*
  * Global resets
  *
