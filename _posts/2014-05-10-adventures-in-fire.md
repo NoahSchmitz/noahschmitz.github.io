@@ -8,7 +8,7 @@ title: Adventures in Fire.
 
 For quite some time I have wanted an Aluminum foundry. I am limited by time and resources, but after spending many hours on [backyardmetalcasting](http://www.backyardmetalcasting.com/) and random instructibles, I produced my very own ghettofabulous foundry. 
 
-[Foundry!](http://drive.google.com/uc?export=view&id=0B6bvHkeOaSe-MDM1VGduWlpoQTJLZUVRX2hxc3VpVmkzdmJv)
+![Foundry!](http://drive.google.com/uc?export=view&id=0B6bvHkeOaSe-MDM1VGduWlpoQTJLZUVRX2hxc3VpVmkzdmJv)
 
 ###Tips
 If you too feel a _burning_ desire to melt and cast stuff out of aluminum you may want to keep reading.
