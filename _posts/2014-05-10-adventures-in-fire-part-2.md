@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: True
 title: Adventures in Fire (part 2)
 ---
 
