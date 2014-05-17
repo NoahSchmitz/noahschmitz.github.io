@@ -18,7 +18,7 @@ If you are anything like me, you can't really justify spending lots of money on 
 
 My sand cast turned out much better this time. I buried a cube of foam (Hey- I'm lazy) and dumped my molten Aluminum down the shaft I made
 
-![This is about to get HOT!](http://www.drive.google.com/uc?export=view&id=0B6bvHkeOaSe-azg4TWwwbDBReW1wUWRkWnNJX1pVdHdiaG8w
+![This is about to get HOT!](http://drive.google.com/uc?export=view&id=0B6bvHkeOaSe-azg4TWwwbDBReW1wUWRkWnNJX1pVdHdiaG8w
 
 I did not have enough molten to cast the entire cube, but it is a pretty good ingot nonetheless.
 
