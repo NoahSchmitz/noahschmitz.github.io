@@ -6,6 +6,7 @@ title: Adventures in Fire (part 2)
 
 Since my last attempt to smelt aluminum, I have done a little more preparation. New crucible, actual plan for carrying hot crucibles, and my first attempt at making actual casts instead of buckets of sand. Unfortunately, I still have a cell phone as my camera, I'll fix that by the next update.
 
+
 ### Time to Turn Up the Heat
 (Note: If you do this at night- be careful)
 
@@ -13,6 +14,7 @@ Since my last attempt to smelt aluminum, I have done a little more preparation. 
 
 If you are anything like me, you can't really justify spending lots of money on a [silicon carbide crucible](https://www.google.com/search?q=silicon+carbide&rlz=1C1SAVS_enUS535US535&oq=silicon+carbide&aqs=chrome..69i57&sourceid=chrome&es_sm=0&ie=UTF-8#q=silicon+carbide+crucible&tbm=shop) I would recommend a thick bottomed steel pot from your local thrift store/garage sale. Putting a bolt in each side and buying some cheap tongs to hook those with is easy, cheap, and safe.
 (Pictures Coming Soon)
+
 
 ###Sand Casting Attempt //#2
 
@@ -25,6 +27,7 @@ I did not have enough molten to cast the entire cube, but it is a pretty good in
 ![That is a nice ingot!](http://www.drive.google.com/uc?export=view&id=0B6bvHkeOaSe-RGZLV1RGckxSeGliSE84TlFqRm9lSlg0bWZj)
 
 ![Dat Metal](http://www.drive.google.com/uc?export=view&id=0B6bvHkeOaSe-NUZ6MTZLNlZSZXZPaXdKcTFXQ01fall3Z3JV)
+
 
 ### Fancy Plaster Molds!
 
