@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: My Pocket Loadout (EDC)
 ---
 
@@ -94,4 +94,4 @@ The back left pocket is home to my Duck Tape wallet. I actually need to make a n
 
 I will continue this mini-series with a followup post about what is in the magical Altoids tin, and maybe a tutorial on how to make an RFID blocking, Duck Tape wallet (If there is interest in that) 
 
-Comment it you enjoyed this! I realize it got a bit long, but I carry a lot! 
+Comment it you enjoyed this! I realize it got a bit long, but I carry a lot!
