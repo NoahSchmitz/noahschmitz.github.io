@@ -15,7 +15,7 @@ B) Very Excited
 
 If you are in catogory A, leave. (we don't serve your kind!) If you are more of a catagory B kind of guy (or girl) then you should probably check these out **after** reading my super exciting blog post.
 
-[reddit.com/r/edc](reddit.com/r/edc)
+[reddit.com/r/edc](Http://www.reddit.com/r/edc)
 
 [edcforums.com](Http://www.edcforums.com)
 
