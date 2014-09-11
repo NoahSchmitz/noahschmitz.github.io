@@ -49,9 +49,7 @@ In the top long skinny pocket I carry a [SOG Powerlock](http://www.sogknives.com
 
 This Multitool has it's pros and cons. The tools are pretty average and the locking (on my model) is pretty average-lame. Where the SOG Powerlock really shines is the pliers. These are the best pliers on any multitool I have ever used ever. Period. The "Compound Leverage Technology" (read: gears on top) make it easy to do all sorts of things. I can cut through a penny or twelve gauge wire with very little pressure whatsoever. They also have a crimper in the bottom (for blasting caps or whatever). And the plier bits do whatever you would expect in the plier department. Other notable goodies on the tools are the V-cutter, excellent for cutting paracord, twine, zip-ties, ect. and the 1/4 inch drive. It is like having a full socket set! (provided you have the bits to put on.) Buy this one elsewhere (amazon) if you want a good deal.
 
-Lastly for the holster, clipped on the back of the belt so it hangs into my back right jeans pocket, is my trusty knife. Most recently I have been carrying the Kershaw Blur
-
-![](http://kershaw.kaiusaltd.com/images/uploads/products/1049/1670tblkst_profile_1020x400.png)
+Lastly for the holster, clipped on the back of the belt so it hangs into my back right jeans pocket, is my trusty knife. Most recently I have been carrying the ![Kershaw Blur](http://kershaw.kaiusaltd.com/images/uploads/products/1049/1670tblkst_profile_1020x400.png)
 
 I love this knife, tanto for box/letter opening, Serrations for cutting rope and minor sawing, assisted ofen for rapid one handed opening. Also, wicked sharp. This particular model comes in all [styles](http://kershaw.kaiusaltd.com/knives/knife/olive-drab-blur "Ugly Green. Yum.") [and](http://kershaw.kaiusaltd.com/knives/knife/blur-blackwash "My favorite color.") [colors](http://kershaw.kaiusaltd.com/knives/knife/blur-red-black "Over 9000!") too! [Drop point](http://kershaw.kaiusaltd.com/knives/knife/blur-s30v "Fancy Steel too!"), with or without serrations, go check the site. All that being said, I would carry a different knife every day of the week if I could afford it!
 
@@ -65,7 +63,7 @@ I needed a more practical (and brighter) light than [my last favorite](http://ww
 
 Well yeah. There is a whole nother pocket on the left side of my jeans!
 
-I carry a Fisher bullet style Space Pen, as my EDC pen. I love felt tip pens, but The FSP is more reliable and can write underwater, in oil, at crazy temeratures, wierd angles, and even in Space! Also, this model is very small when collapsed, but full sized when open.
+I carry a [Fisher bullet style Space Pen](http://www.spacepen.com/matteblackbullet.aspx "It writes in Space!"), as my EDC pen. I love felt tip pens, but The FSP is more reliable and can write underwater, in oil, at crazy temeratures, wierd angles, and even in Space! Also, this model is very small when collapsed, but full sized when open.
 
 ![It can write in Space!](http://cdn.coloradopen.com/images/uploads/fisher-space-pen-bullet-ballpoint-black-matte-POP.png)
 
