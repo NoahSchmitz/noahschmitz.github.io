@@ -17,7 +17,7 @@ If you are in catogory A, leave. (we don't serve your kind!) If you are more of 
 
 [reddit.com/r/edc](reddit.com/r/edc)
 
-[edcforums.com](edcforums.com)
+[edcforums.com](Http://www.edcforums.com)
 
 ## Epic Backstory (Skip/Skim at Your Leisure)
 
