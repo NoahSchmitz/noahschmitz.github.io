@@ -35,8 +35,11 @@ I had never heard the phrase "EDC" until I started reaserching purchases on the 
 
 I never stopped loving that utility belt, but my waistline has gotten bigger. Enter the [Grab-it-Pack-it Holster](thinkgeek.com/product/c616/) I bought mine off Thinkgeek, because a) Thinkgeek is cool, b) It's cheaper there.
 
-![Holster FTW](/http://a.tgcdn.net/images/products/zoom/c616_grab_it_pack_gadget_holster.jpg)
+![Holster FTW](http://http://a.tgcdn.net/images/products/zoom/c616_grab_it_pack_gadget_holster.jpg)
 
 I freaken love this thing. It can hold all the things. It fits my (cheapo) 7" tablet like it was made for it. Also, that tablet pocket (on the deluxe) is big enough to comfortably fit my tablet and my Nook Simple Touch, which is always nice to have for reading on the go.
 
-The smaller pocket fits most smartphones, and (more importantly) an Altoids Tin! I normally carry my phone in another pocket anyway. So in that pocket I carry my Altoids Tin, which as some of my readers may have guessed, does not contain Altoids. (More on my fancy Altoids tin in another post)![IMAG0149.jpg](/media/IMAG0149.jpg)
+The smaller pocket fits most smartphones, and (more importantly) an Altoids Tin! I normally carry my phone in another pocket anyway. So in that pocket I carry my Altoids Tin, which as some of my readers may have guessed, does not contain Altoids. (More on my fancy Altoids tin in another post)
+
+![IMAG0149.jpg](/media/IMAG0149.jpg)
+
