@@ -78,5 +78,11 @@ I think the finished product is pretty sexy. Just saying.
 
 ![IMAG0151.jpg](/media/IMAG0151.jpg)
 
+I never leave my house wihtout a spork. Seem weird? Well I am. If oyu haver never used a spork outside of a yogurt shop, you are mising out. Those cheap plastic ones are too shallow for a spoon and not pointy enough for a fork. Goes to show that not all sporks are created equal. I carry this with me always.
+
+![Two Birds. One Spork.](http://a.tgcdn.net/images/products/zoom/spork.jpg)
+
+I also carry a boring, non picure worthy cell phone and set of earbuds in that pocket.
+
 
 
