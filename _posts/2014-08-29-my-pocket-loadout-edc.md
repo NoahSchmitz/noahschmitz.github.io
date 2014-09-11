@@ -70,11 +70,12 @@ to look for an alternative. In my pen/pencil cup I had a silver Pentech Syntech 
 
 So I pried the clip off and slid it on the FSP. I think I scratched the finish a little (under the clip) but I'm not planning on removing it anytime soon. It seems to be staying on really well with friction alone. I also think it looks more elegant, and less "tactical" than the black clip. (A lot of my EDC looks way to "Tactical") I used a Dremel attatchment to remove the logo on the clip, and cleaned it up with some fine grit steel wool.
 
-![](/http://www.thepolishingshop.co.uk/acatalog/3mscotchbrite.gif)
+![](http://www.thepolishingshop.co.uk/acatalog/3mscotchbrite.gif)
 
 I think the finished product is pretty sexy. Just saying.
 
 ![IMAG0150.jpg](/media/IMAG0150.jpg)
+
 ![IMAG0151.jpg](/media/IMAG0151.jpg)
 
 
