@@ -95,3 +95,5 @@ I also carry a boring, non picure worthy cell phone and set of earbuds in that p
 The back left pocket is home to my Duck Tape wallet. I actually need to make a new (picture worthy) version. I have been carrying it for 5 years, and I love it. I highly recomend you DIY'ers out there try this at home! If you put a layer of Aluminum foil in between the Duck Tape it will even be [RFID blocking](http://en.wikipedia.org/wiki/RFID_skimming "Wikipedia to the Rescue!"), so no one can skim your cards. Mine is a simple billfold with a clear ID pocket and a card pocket.
 
 I will continue this mini-series with a followup post about what is in the magical Altoids tin, and maybe a tutorial on how to make an RFID blocking, Duck Tape wallet (If there is interest in that) 
+
+Comment it you enjoyed this! I realize it got a bit long, but I carry a lot! 
