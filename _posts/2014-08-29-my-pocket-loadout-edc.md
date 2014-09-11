@@ -84,7 +84,7 @@ I think the finished product is pretty sexy. Just saying.
 
 ![IMAG0151.jpg](/media/IMAG0151.jpg)
 
-I never leave my house wihtout [a spork](http://www.thinkgeek.com/product/8ace/ "Two Birds. One Spork."). Seem weird? Well I am. If oyu haver never used a spork outside of a yogurt shop, you are mising out. Those cheap plastic ones are too shallow for a spoon and not pointy enough for a fork. Goes to show that not all sporks are created equal. I carry this with me always.
+I never leave my house without [a spork](http://www.thinkgeek.com/product/8ace/ "Two Birds. One Spork."). Seem weird? Well I am. If you haver never used a spork outside of a yogurt shop, you are mising out. Those cheap plastic ones are too shallow for a spoon and not pointy enough for a fork. Goes to show that not all sporks are created equal. I carry this with me always.
 
 ![Two Birds. One Spork.](http://a.tgcdn.net/images/products/zoom/spork.jpg)
 
@@ -94,3 +94,4 @@ I also carry a boring, non picure worthy cell phone and set of earbuds in that p
 
 The back left pocket is home to my Duck Tape wallet. I actually need to make a new (picture worthy) version. I have been carrying it for 5 years, and I love it. I highly recomend you DIY'ers out there try this at home! If you put a layer of Aluminum foil in between the Duck Tape it will even be [RFID blocking](http://en.wikipedia.org/wiki/RFID_skimming "Wikipedia to the Rescue!"), so no one can skim your cards. Mine is a simple billfold with a clear ID pocket and a card pocket.
 
+I will continue this mini-series with a followup post about what is in the magical Altoids tin, and maybe a tutorial on how to make an RFID blocking, Duck Tape wallet (If there is interest in that) 
