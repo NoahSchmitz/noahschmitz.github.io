@@ -33,7 +33,7 @@ I had never heard the phrase "EDC" until I started reaserching purchases on the 
 
 ##Shut up and Tell Me What You Carry Dude!
 
-I never stopped loving that utility belt, but my waistline has gotten bigger. Enter the [Grab-it-Pack-it Holster](thinkgeek.com/product/c616/) I bought mine off Thinkgeek, because a) Thinkgeek is cool, b) It's cheaper there.
+I never stopped loving that utility belt, but my waistline has gotten bigger. Enter the [Grab-it-Pack-it Holster](thinkgeek.com/product/c616/ "Fanny pack for cool kids!") I bought mine off Thinkgeek, because a) Thinkgeek is cool, b) It's cheaper there.
 
 ![Holster FTW](http://a.tgcdn.net/images/products/zoom/c616_grab_it_pack_gadget_holster.jpg)
 
@@ -43,17 +43,23 @@ The smaller pocket fits most smartphones, and (more importantly) an Altoids Tin!
 
 ![IMAG0149.jpg](/media/IMAG0149.jpg)
 
-In the top long skinny pocket I carry a SOG Powerlock
+In the top long skinny pocket I carry a [SOG Powerlock](http://www.sogknives.com/powerlock-eod-2-0-v-cutter-black-oxide.html "It's cheaper on Amazon!")
 
 ![Multitools Yay!](http://www.sogknives.com/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/s/o/sog_b63-n_2.png)
 
-This Multitool has it's pros and cons. The tools are pretty average and the locking (on my model) is pretty average-lame. Where the SOG Powerlock really shines is the pliers. These are the best pliers on any multitool I have ever used ever. Period. The "Compound Leverage Technology" (read: gears on top) make it easy to do all sorts of things. I can cut through a penny or twelve gauge wire with very little pressure whatsoever. They also have a crimper in the bottom (for blasting caps or whatever). And the plier bits do whatever you would expect in the plier department. Other notable goodies on the tools are the V-cutter, excellent for cutting paracord, twine, zip-ties, ect. and the 1/4 inch drive. It is like having a full socket set! (provided you have the bits to put on.)
+This Multitool has it's pros and cons. The tools are pretty average and the locking (on my model) is pretty average-lame. Where the SOG Powerlock really shines is the pliers. These are the best pliers on any multitool I have ever used ever. Period. The "Compound Leverage Technology" (read: gears on top) make it easy to do all sorts of things. I can cut through a penny or twelve gauge wire with very little pressure whatsoever. They also have a crimper in the bottom (for blasting caps or whatever). And the plier bits do whatever you would expect in the plier department. Other notable goodies on the tools are the V-cutter, excellent for cutting paracord, twine, zip-ties, ect. and the 1/4 inch drive. It is like having a full socket set! (provided you have the bits to put on.) Buy this one elsewhere (amazon) if you want a good deal.
 
 Lastly for the holster, clipped on the back of the belt so it hangs into my back right jeans pocket, is my trusty knife. Most recently I have been carrying the Kershaw Blur
 
 ![](http://kershaw.kaiusaltd.com/images/uploads/products/1049/1670tblkst_profile_1020x400.png)
 
-I love this knife, tanto for box/letter opening, Serrations for cutting rope and minor sawing, assisted ofen for rapid one handed opening. Also, wicked sharp. That being said, I would carry a different knife every day of the week if I could afford it!
+I love this knife, tanto for box/letter opening, Serrations for cutting rope and minor sawing, assisted ofen for rapid one handed opening. Also, wicked sharp. This particular model comes in all [styles](http://kershaw.kaiusaltd.com/knives/knife/olive-drab-blur "Ugly Green. Yum.") [and](http://kershaw.kaiusaltd.com/knives/knife/blur-blackwash "My favorite color.") [colors](http://kershaw.kaiusaltd.com/knives/knife/blur-red-black "Over 9000!") too! [Drop point](http://kershaw.kaiusaltd.com/knives/knife/blur-s30v "Fancy Steel too!"), with or without serrations, go check the site. All that being said, I would carry a different knife every day of the week if I could afford it!
+
+My latest addition, snuggled up against the Altoids tin is the [Fenix E12](http://www.fenixlight.com/ProductMore.aspx?id=124&tid=11&cid=1 "Many Lumens. Very Wow."). 
+
+![Many Lumens. Very Wow.](http://ep.yimg.com/ca/I/theshorelinemarket_2330_58022850)
+
+I needed a more practical (and brighter) light than [my last favorite](http://www.thinkgeek.com/product/ed2c/ "Way cooler though."). This light had good reviews so I went for it. I like the size and the brightness, I also love having different modes for battery savings. The fact that it can stand on end is cool, and standard batteries (AA) is always a plus. What don't I like? I am not a fan of the switch. It is a soft rubber switch, reccesed in the base/lanyard attatchment. I would kill to have this with a solid clickyer button. I can't seem to dissasemble that part either. That being said, it's not that bad, and much better than my past lights. 
 
 ##What? There is More?
 
@@ -70,7 +76,7 @@ to look for an alternative. In my pen/pencil cup I had a silver Pentech Syntech 
 
 So I pried the clip off and slid it on the FSP. I think I scratched the finish a little (under the clip) but I'm not planning on removing it anytime soon. It seems to be staying on really well with friction alone. I also think it looks more elegant, and less "tactical" than the black clip. (A lot of my EDC looks way to "Tactical") I used a Dremel attatchment to remove the logo on the clip, and cleaned it up with some fine grit steel wool.
 
-![](http://www.thepolishingshop.co.uk/acatalog/3mscotchbrite.gif)
+![Brush that Chrome!](http://www.thepolishingshop.co.uk/acatalog/3mscotchbrite.gif)
 
 I think the finished product is pretty sexy. Just saying.
 
@@ -78,11 +84,15 @@ I think the finished product is pretty sexy. Just saying.
 
 ![IMAG0151.jpg](/media/IMAG0151.jpg)
 
-I never leave my house wihtout a spork. Seem weird? Well I am. If oyu haver never used a spork outside of a yogurt shop, you are mising out. Those cheap plastic ones are too shallow for a spoon and not pointy enough for a fork. Goes to show that not all sporks are created equal. I carry this with me always.
+I never leave my house wihtout [a spork](thinkgeek.com/product/8ace/ "Two Birds. One Spork."). Seem weird? Well I am. If oyu haver never used a spork outside of a yogurt shop, you are mising out. Those cheap plastic ones are too shallow for a spoon and not pointy enough for a fork. Goes to show that not all sporks are created equal. I carry this with me always.
 
 ![Two Birds. One Spork.](http://a.tgcdn.net/images/products/zoom/spork.jpg)
 
-I also carry a boring, non picure worthy cell phone and set of earbuds in that pocket.
+Deep enough for soup, but pointy enough for meat or pasta. I absoulutely cannot recomend this highly enough. So choice. Mine is from Thinkgeek, maybe you can find it cheaper elsewhere, I have never checked.
+
+I also carry a boring, non picure worthy cell phone and set of earbuds in that pocket. Moving on!
+
+The back left pocket is home to my Duck Tape wallet. I actually need to make a new (picture worthy) version. I have been carrying it for 5 years, and I love it. I highly recomend you DIY'ers out there try this at home! If you put a layer of Aluminum foil in between the Duck Tape it will even be [RFID blocking](http://en.wikipedia.org/wiki/RFID_skimming "Wikipedia to the Rescue!"), so no one can skim your cards. Mine is a simple billfold with a clear ID pocket and a card pocket. 
 
 
 
