@@ -27,8 +27,4 @@ Okay fine! for starters, you will need to go grab your roll of duck tape (what d
 
 You are going to begin by deciding the dimensions of your wallet. Mine is roughly 4"X 3", but pick a size you like. Take both dimensions and double them. Using strips of tape, make a sheet roughly 8"X6" (or to whatever dimensions you picked)
 
-
-
-
-
-
+![Wallet.png](/media/Wallet.png)
