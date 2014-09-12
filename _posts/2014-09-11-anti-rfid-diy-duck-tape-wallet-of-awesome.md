@@ -12,7 +12,7 @@ I have never been happy with store-bought wallets. Why? Maybe it's becuase I'm w
 
 Enter the Duck Tape Wallet. Exactly what you want, nothing that you don't. Personally this is my list
 
-- Bi-fold style
+- Billfold style
 - Clear ID pocket
 - 2-3 Card holders
 - RFID Blocking
@@ -29,9 +29,10 @@ You are going to begin by deciding the dimensions of your wallet. Mine is roughl
 
 ![Diagrams!](/_posts/Wallet.png)
 
-As you can see, I also decided to make the back of panel A out of Gorrila Tape (for extra strength) and to sandwich some ALuminum Foil in the B section for RFID blocking for my cards.
+As you can see, I also decided to make the back of panel A out of Gorrila Tape (for extra strength) and to sandwich some Aluminum Foil in the B section for RFID blocking for my cards.
 
 ![Figure Z...](/_posts/Wallet 3.png)
 
-Then simply follow these instructions to get the basic shape.
+Then simply follow these instructions to get the basic shape. You should end up with a simple billfold style wallet with a check (or other long paper) pocket on the left.
+Note: If you dont want that extra side pocket, tape 5 to 6 right after you tape 8 to 9, or simply remove panel A (which may decrease durability).
 
