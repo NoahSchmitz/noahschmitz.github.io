@@ -27,7 +27,7 @@ Okay fine! for starters, you will need to go grab your roll of duck tape (what d
 
 You are going to begin by deciding the dimensions of your wallet. Mine is roughly 4"x 3", but pick a size you like. Take the width and double it, and tripple the height. Using strips of tape, make a sheet roughly 8"x9" (or adjusted to whatever dimensions you picked)
 
-![Diagrams!](/_posts/Wallet.png)
+![Diagrams!](/Media/Wallet.png)
 
 As you can see, I also decided to make the back of panel A out of Gorrila Tape (for extra strength) and to sandwich some Aluminum Foil in the B section for RFID blocking for my cards.
 
@@ -45,5 +45,3 @@ At this point you can add as many card pockets as you want. I have a peice of cl
 At the end of the day, you should have a stylish, functional, customized wallet. That cost you almost nothing but time (assuming you already had tape).
 
 When I get around to constructing my new one I will post pictures of the actual process.
-
-
