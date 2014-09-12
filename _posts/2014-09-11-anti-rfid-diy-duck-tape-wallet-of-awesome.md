@@ -17,6 +17,18 @@ Enter the Duck Tape Wallet. Exactly what you want, nothing that you don't. Perso
 - 2-3 Card holders
 - RFID Blocking
 
+Your needs/wants may vary. But with a little creativity you should be able to accomodate whatever configuration your little heart desires.
+
+##BLah, Blah, Blah. Show me How Already!
+
+Okay fine! for starters, you will need to go grab your roll of duck tape (what do you mean you don't have any? Disgrace.)
+
+![God's favorite fastener.](/http://upload.wikimedia.org/wikipedia/commons/8/89/Duct-tape.jpg)
+
+You are going to begin by deciding the dimensions of your wallet. Mine is roughly 4"X 3", but pick a size you like. Take both dimensions and double them. Using strips of tape, make a sheet roughly 8"X6" (or to whatever dimensions you picked)
+
+
+
 
 
 
