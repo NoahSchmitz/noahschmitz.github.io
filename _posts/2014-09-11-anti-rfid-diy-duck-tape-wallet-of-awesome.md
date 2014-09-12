@@ -23,7 +23,15 @@ Your needs/wants may vary. But with a little creativity you should be able to ac
 
 Okay fine! for starters, you will need to go grab your roll of duck tape (what do you mean you don't have any? Disgrace.)
 
-![God's favorite fastener.](/http://upload.wikimedia.org/wikipedia/commons/8/89/Duct-tape.jpg)
+![God's favorite fastener.](http://upload.wikimedia.org/wikipedia/commons/8/89/Duct-tape.jpg)
 
-You are going to begin by deciding the dimensions of your wallet. Mine is roughly 4"X 3", but pick a size you like. Take both dimensions and double them. Using strips of tape, make a sheet roughly 8"X6" (or to whatever dimensions you picked)
+You are going to begin by deciding the dimensions of your wallet. Mine is roughly 4"X 3", but pick a size you like. Take the width and double it, and tripple the height. Using strips of tape, make a sheet roughly 8"X9" (or adjusted to whatever dimensions you picked)
+
+![Diagrams!](/_posts/Wallet.png)
+
+As you can see, I also decided to make the back of panel A out of Gorrila Tape (for extra strength) and to sandwich some ALuminum Foil in the B section for RFID blocking for my cards.
+
+![Figure Z...](/_posts/Wallet 3.png)
+
+Then simply follow these instructions to get the basic shape.
 
