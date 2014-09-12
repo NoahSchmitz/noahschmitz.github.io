@@ -25,7 +25,7 @@ Okay fine! for starters, you will need to go grab your roll of duck tape (what d
 
 ![God's favorite fastener.](http://upload.wikimedia.org/wikipedia/commons/8/89/Duct-tape.jpg)
 
-You are going to begin by deciding the dimensions of your wallet. Mine is roughly 4"X 3", but pick a size you like. Take the width and double it, and tripple the height. Using strips of tape, make a sheet roughly 8"X9" (or adjusted to whatever dimensions you picked)
+You are going to begin by deciding the dimensions of your wallet. Mine is roughly 4"x 3", but pick a size you like. Take the width and double it, and tripple the height. Using strips of tape, make a sheet roughly 8"x9" (or adjusted to whatever dimensions you picked)
 
 ![Diagrams!](/_posts/Wallet.png)
 
@@ -35,4 +35,13 @@ As you can see, I also decided to make the back of panel A out of Gorrila Tape (
 
 Then simply follow these instructions to get the basic shape. You should end up with a simple billfold style wallet with a check (or other long paper) pocket on the left.
 Note: If you dont want that extra side pocket, tape 5 to 6 right after you tape 8 to 9, or simply remove panel A (which may decrease durability).
+
+At this point you should have a 8"x3" strip with the back of "C" facing up.
+
+![Last Picture (Probably)](/_posts/Wallet 2.png)
+
+At this point you can add as many card pockets as you want. I have a peice of clear plastic (packing tape folded over on itself can be used) for my ID, and two card holders (Debit, and Bus Pass in my case). Feel free to experiment here, if you carry a lot of different cards, you may want to put more.
+
+At the end of the day, you should have a stylish, functional, customized wallet.
+
 
