@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Anti-RFID DIY Duck Tape Wallet of Awesome"
 ---
 
@@ -17,7 +17,7 @@ Enter the Duck Tape Wallet. Exactly what you want, nothing that you don't. Perso
 - 2-3 Card holders
 - RFID Blocking
 
-Your needs/wants may vary. But with a little creativity you should be able to accomodate whatever configuration your little heart desires.
+Your needs/wants may vary. But with a little creativity you should be able to accomodate whatever configuration your little heart desires. Duck Tape comes in all colors and patterns, and if you want more durability, you could even make it all from Gorrila Tape (I may try this).
 
 ##BLah, Blah, Blah. Show me How Already!
 
@@ -42,6 +42,8 @@ At this point you should have a 8"x3" strip with the back of "C" facing up.
 
 At this point you can add as many card pockets as you want. I have a peice of clear plastic (packing tape folded over on itself can be used) for my ID, and two card holders (Debit, and Bus Pass in my case). Feel free to experiment here, if you carry a lot of different cards, you may want to put more.
 
-At the end of the day, you should have a stylish, functional, customized wallet.
+At the end of the day, you should have a stylish, functional, customized wallet. That cost you almost nothing but time (assuming you already had tape).
+
+When I get around to constructing my new one I will post pictures of the actual process.
 
 
