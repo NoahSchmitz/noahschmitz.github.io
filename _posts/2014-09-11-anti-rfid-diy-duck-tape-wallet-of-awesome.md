@@ -28,7 +28,7 @@ Your needs/wants may vary. But with a little creativity you should be able to ac
 
 Okay fine! for starters, you will need to go grab your roll of duck tape (what do you mean you don't have any? Disgrace.)
 
-![God's favorite fastener.](http://upload.wikimedia.org/Wikipedia/commons/8/89/Duct-tape.jpg)
+![God's favorite fastener.](http://upload.wikimedia.org/wikipedia/commons/8/89/Duct-tape.jpg)
 
 You are going to begin by deciding the dimensions of your wallet. Mine is roughly 4"x 3", but pick a size you like. Take the width and double it, and ripple the height. Using strips of tape, make a sheet roughly 8"x9" (or adjusted to whatever dimensions you picked)
 
