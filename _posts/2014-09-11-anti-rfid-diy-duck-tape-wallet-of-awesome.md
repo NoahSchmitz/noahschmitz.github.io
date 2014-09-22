@@ -44,7 +44,7 @@ Note: If you don't want that extra side pocket, tape 5 to 6 right after you tape
 
 At this point you should have a 8"x3" strip with the back of "C" facing up.
 
-![Last Picture (Probably)](/media/Wallet 2.png)
+![Last Picture (Probably)]
 
 At this point you can add as many card pockets as you want. I have a piece of clear plastic (packing tape folded over on itself can be used) for my ID, and two card holders (Debit, and Bus Pass in my case). Feel free to experiment here, if you carry a lot of different cards, you may want to put more.
 
