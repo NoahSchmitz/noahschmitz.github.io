@@ -108,7 +108,7 @@ To round your corners, either cut around something round (metal washer) or just 
 
 Figuring out how to attach the elastic was all me. I used this white elastic (instead of black) because it was the only color I had!
 
-I punched two holes in the back cover and tied a simple loop in the elastic. Works like a charm. (Cell phone pics, sorry) My first holes were to close to the edge, and the elastic was sliding off the corners, I would recommend going about 30mm in
+I punched two holes in the back cover and tied a simple loop in the elastic. Works like a charm. My first holes were to close to the edge, and the elastic was sliding off the corners, I would recommend going about 30mm in
 
 ![IMAG0176.jpg](/media/IMAG0176.jpg)
 
