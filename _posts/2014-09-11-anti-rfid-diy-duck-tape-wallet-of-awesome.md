@@ -36,7 +36,7 @@ You are going to begin by deciding the dimensions of your wallet. Mine is roughl
 
 As you can see, I also decided to make the back of panel A out of Gorilla Tape (for extra strength) and to sandwich some Aluminum Foil in the B section for RFID blocking for my cards.
 
-![Figure Z...](/media/Wallet 3.png)
+![Figure Z...][Wallet 3.png](/media/Wallet 3.png)
 
 
 Then simply follow these instructions to get the basic shape. You should end up with a simple billfold style wallet with a check (or other long paper) pocket on the left.
@@ -44,8 +44,7 @@ Note: If you don't want that extra side pocket, tape 5 to 6 right after you tape
 
 At this point you should have a 8"x3" strip with the back of "C" facing up.
 
-![Last Picture (Probably)]![Wallet 2.png](/media/Wallet 2.png)
-
+![Last Picture (Probably)]
 
 At this point you can add as many card pockets as you want. I have a piece of clear plastic (packing tape folded over on itself can be used) for my ID, and two card holders (Debit, and Bus Pass in my case). Feel free to experiment here, if you carry a lot of different cards, you may want to put more.
 
