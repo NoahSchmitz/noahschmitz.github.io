@@ -86,6 +86,10 @@ The guy in the video does exactly what I want at least as far as the Midori-esqu
 
 I ended up using entirely leather cord (like what they use on necklaces) instead of elastic cord, I tied it nice and tight (but not too tight, or the books wont fit) and it seems to work fine, and look cooler. I also copied his bookmark design (watch 20:00ish). Basically just tie more cord around the top two loops and the excess becomes a bookmark.
 
+To round your corners, either cut around something round (metal washer)or just use some nail clippers (have to push pretty dang hard)
+
+![IMAG0171.jpg](/media/IMAG0171.jpg)
+
 Figuring out how to attatch the elastic was all me. I used this white elastic (instead of black) becuase it was the only color I had!
 
 I punched two holes in the back cover and tied a simple loop in the elastic. Works like a charm. (Cell phone pics, sorry) My first holes were to close to the edge, and the elastic was sliding off the corners, I would recomend going about 30mm in
