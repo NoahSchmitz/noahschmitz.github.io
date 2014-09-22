@@ -48,7 +48,11 @@ I decided what I wanted was a leather cover that would hold *one* book and stay 
 
 ##Mark 0
 
-After some quick sketching I made a (non-picture worthy) paper prototype (I always do) I figured out the approximate size and that the easiest way to hold the notebook would be with a cord running down the inside spine like a [Midori Travelers notebook](http://www.midori-japan.co.jp/tr/english/trnotebook/products/ "So not American!"). Sturdy, but easy to replace.
+After some quick sketching I made a (really lame) paper prototype 
+
+![IMAG0182.jpg](/media/IMAG0182.jpg)
+
+I always start with paper. I figured out the approximate size and that the easiest way to hold the notebook would be with a cord running down the inside spine like a [Midori Travelers notebook](http://www.midori-japan.co.jp/tr/english/trnotebook/products/ "So not American!"). Sturdy, but easy to replace.
 
 ![It's Replaceable!](http://ecx.images-amazon.com/images/I/61nhCii7NfL._SL1500_.jpg)
 
