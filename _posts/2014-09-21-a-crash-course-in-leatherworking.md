@@ -102,7 +102,7 @@ I ended up using entirely leather cord (like what they use on necklaces) instead
 
 ![IMAG0175.jpg](/media/IMAG0175.jpg)
 
-To round your corners, either cut around something round (metal washer)or just use some nail clippers (have to push pretty dang hard)
+To round your corners, either cut around something round (metal washer) or just use some nail clippers (have to push pretty dang hard)
 
 ![IMAG0171.jpg](/media/IMAG0171.jpg)
 
