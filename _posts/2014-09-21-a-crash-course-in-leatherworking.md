@@ -50,7 +50,7 @@ I decided what I wanted was a leather cover that would hold *one* book and stay 
 
 After some quick sketching I made a (non-picture worthy) paper prototype (I always do) I figured out the aproxomite size and that the easiest way to hold the notebook would be with a cord running down the inside spine like a [Midori Travelers notebook](http://www.midori-japan.co.jp/tr/english/trnotebook/products/ "So not American!"). Sturdy, but easy to replace.
 
-![It's Replaceable!](/http://ecx.images-amazon.com/images/I/61nhCii7NfL._SL1500_.jpg)
+![It's Replaceable!](http://ecx.images-amazon.com/images/I/61nhCii7NfL._SL1500_.jpg)
 
 ##Mark 1
 
@@ -59,3 +59,30 @@ Having Determined this, I still needed a way to keep it closed, and a fancy book
 ##Mark 2
 ###This Times For Realsys
 
+At some point in this proccess I stumbled across this (long) Youtube Video
+
+<center><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/hCYAnmQnn6w?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<!--Yeah I used the center tag. Deal with it. Even You Adam-->
+
+You can watch the whole thing, or just keep reading.
+
+Cut a peice of leather to the size you want (use a ***sharp*** knife. I used 210mm x 150mm (8.26"x5.91") for my field notes sized book, adjust to fit your needs.
+
+Find the center line and punch two holes at the top and two at the bottom, but skip the middle hole 
+
+![Holes.PNG](/media/Holes.PNG)
+
+
+(video 9:10-10:30) I used a [fancy hole punch](http://www.walmart.com/ip/Crop-A-Dile-II-Big-Bite-Punch/10310770 "Super fancy") but you can also use a leather puch or simply an awl (or anything esle sharp and pointy)
+
+The guy in the video does exactly what I want at least as far as the Midori-esque stitching. (11:00-15:00)
+
+I ended up using some leather twine (like what they use on necklaces) instead of elastic cord, I tied it nice and tight (but not too tight, or the books wont fit) and it seems to work fine, and look cooler. I also copied his bookmark design (watch 20:00ish).
+
+Figuring out how to attatch the elastic was all me. I used this white elastic (instead of black) becuase it was the only color I had!
+
+I punched two holes in the back cover and tied a simple loop in the elastic. Works like a charm.
+
+Some detailing with leather stamps to make it mine. I would recomend wiping down the leather with water first (holds the stamp better) and you should just do the whole book to keep the color the same.
+
+Lastly I tried to do some edge finishing following this (and other similar guides)
