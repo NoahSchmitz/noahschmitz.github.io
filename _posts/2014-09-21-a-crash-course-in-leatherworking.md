@@ -5,7 +5,7 @@ title: "A Crash Course in Leatherworking!"
 ---
 
 ## Good thing I got the Leatherworking Merit Badge!
-####Except not, becuase that taught me nothing other than how to use stamps...
+###Except not, becuase that taught me nothing other than how to use stamps...
 
 I have worn leather belts before. I have also wrapped strips of leather around handles to make them look cooler. None of this really prepared me for my latest project.
 
@@ -19,12 +19,14 @@ Normally I would be kinda, meh. However, in a few short months I will be setting
 
 I bought a bunch of [Black Field Notes](http://fieldnotesbrand.com/shop/pitchblack/ "Black Goes With Everything"), and I think they fit the bill. However, I know my back pocket will destroy them (if my wallet is anything to go by).
 
+![Soooo Black.](http://g.nordstromimage.com/imagegallery/store/product/Zoom/6/_9266546.jpg)
+
 ##An Answer Presents Itself
 Buckle up, this ones gonna get long.
 
 Originally I was thingking of something like [this](saddlebackleather.com/moleskinecover "Saddleback Leather!")
 
-![Super Expensive Leather Cover!](/http://the-gadgeteer.com/wp-content/uploads/2010/12/saddleback-notebook-cover-1.jpg)
+![Super Expensive Leather Cover!](http://the-gadgeteer.com/wp-content/uploads/2010/12/saddleback-notebook-cover-1.jpg)
 
 And that would be awesome. Just one problem, I bought Field Notes, Not a [Moleskine](http://moleskine.com/us/collections/model/product/squared-soft-notebook-pocket "Fancy Notebooks!") So I wouldnt be able to use the cool elastic thing.
 
@@ -32,11 +34,11 @@ No big deal Field Notes themselves sell a few [leather](http://fieldnotesbrand.c
 
 There are a v[ariety of cheap ones on Etsy](https://www.etsy.com/market/field_notes_cover "Cheap! At last.") and the like, but we are looking at at least 40$ and very few are **exactly** what I want.
 
-#Noah, Why Did You Bother to Show Me all of That?
+###Noah, Why Did You Bother to Show Me all of That?
 
 Well, don't you see? These are all expensive, or not perfect. There is but one obvious solution! I need to make one myself! (cheaply and in my own idiom)
 
-#But Noah, that sounds hard!
+###But Noah, that sounds hard!
 
 Get of my site. Now.
 
@@ -44,4 +46,16 @@ Get of my site. Now.
 
 I decided what I wanted was a leather cover that would hold *one* book and stay closed without obstucting the cool inside of the Field Notes Covers (they have contact info and a ruler and stuff!) Also a bookmark.
 
-##Mark One
+##Mark 0
+
+After some quick sketching I made a (non-picture worthy) paper prototype (I always do) I figured out the aproxomite size and that the easiest way to hold the notebook would be with a cord running down the inside spine like a [Midori Travelers notebook](http://www.midori-japan.co.jp/tr/english/trnotebook/products/ "So not American!"). Sturdy, but easy to replace.
+
+![It's Replaceable!](/http://ecx.images-amazon.com/images/I/61nhCii7NfL._SL1500_.jpg)
+
+##Mark 1
+
+Having Determined this, I still needed a way to keep it closed, and a fancy bookmark. So I experimented with a spare (hideous) Field Notes I had lying around. I like the elastic closing (blatantly stolen from Moleskines) and the idea of some sort of twine bookmark. Ribbon bookmarks just end up fraying and creasing and stuff. I also experimented with a Moleskine Style pocket in the back.
+
+##Mark 2
+###This Times For Realsys
+
