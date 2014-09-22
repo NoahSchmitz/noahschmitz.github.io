@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "A Crash Course in Leatherworking!"
 ---
 
@@ -81,8 +81,8 @@ I used a piece of 2-3oz leather for a balance between thin and stiff.
 
 At some point in this process I stumbled across this (long) YouTube Video, which is similar to what I want.
 
-<center><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/hCYAnmQnn6w?rel=0" frameborder="0" allowfullscreen></iframe></center>
-<!--Yeah I used the center tag. Deal with it. Even You Adam-->
+<center><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/hCYAnmQnn6w?rel=0" frameborder="0" allowfullscreen></iframe><!--Yeah I used the center tag. Deal with it. Even You Adam--> </center>
+
 
 You can watch the whole thing, or just keep reading.
 
@@ -102,13 +102,13 @@ I ended up using entirely leather cord (like what they use on necklaces) instead
 
 ![IMAG0175.jpg](/media/IMAG0175.jpg)
 
-To round your corners, either cut around something round (metal washer) or just use some nail clippers (have to push pretty dang hard)
+To round your corners, either cut around something round (metal washer)or just use some nail clippers (have to push pretty dang hard)
 
 ![IMAG0171.jpg](/media/IMAG0171.jpg)
 
 Figuring out how to attach the elastic was all me. I used this white elastic (instead of black) because it was the only color I had!
 
-I punched two holes in the back cover and tied a simple loop in the elastic. Works like a charm. My first holes were to close to the edge, and the elastic was sliding off the corners, I would recommend going about 30mm in
+I punched two holes in the back cover and tied a simple loop in the elastic. Works like a charm. (Cell phone pics, sorry) My first holes were to close to the edge, and the elastic was sliding off the corners, I would recommend going about 30mm in
 
 ![IMAG0176.jpg](/media/IMAG0176.jpg)
 
