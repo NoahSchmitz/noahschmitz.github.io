@@ -13,7 +13,7 @@ I have worn leather belts before. I have also wrapped strips of leather around h
 
 Recently I read this:
 
-
+[The Manly Tradition of the Pocket Notebook](artofmanliness.com/2010/08/23/the-manly-tradition-of-the-pocket-notebook/ "Super Manly")
 
 (love that site, go check it out)
 
@@ -22,5 +22,3 @@ Normally I would be kinda, meh. However, in a few short months I will be setting
 I bought a bunch of [Black Field Notes](http://fieldnotesbrand.com/shop/pitchblack/ "Black Goes With Everything"), and I think they fit the bill. However, I know my back pocket will destroy them (if my wallet is anything to go by).
 
 ##An Answer Presents Itself
-
-
