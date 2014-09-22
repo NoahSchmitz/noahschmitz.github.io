@@ -75,7 +75,9 @@ Find the center line and punch two holes at the top and two at the bottom, but s
 
 (video 9:10-10:30) I used a [fancy hole punch](http://www.walmart.com/ip/Crop-A-Dile-II-Big-Bite-Punch/10310770 "Super fancy") but you can also use a leather puch or simply an awl (or anything esle sharp and pointy)
 
-The guy in the video does exactly what I want at least as far as the Midori-esque stitching. (11:00-15:00)
+The guy in the video does exactly what I want at least as far as the Midori-esque stitching. (11:00-15:00) Just tie your loose ends.
+
+![Rope.PNG](/media/Rope.PNG)
 
 I ended up using some leather twine (like what they use on necklaces) instead of elastic cord, I tied it nice and tight (but not too tight, or the books wont fit) and it seems to work fine, and look cooler. I also copied his bookmark design (watch 20:00ish).
 
