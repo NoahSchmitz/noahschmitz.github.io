@@ -60,7 +60,6 @@ Having Determined this, I still needed a way to keep it closed, and a fancy book
 
 I like the elastic closing (blatantly stolen from Moleskines) and the idea of some sort of twine bookmark. Ribbon bookmarks just end up fraying and creasing and stuff. 
 
-![IMAG0180.jpg](/media/IMAG0180.jpg)
 
 I also experimented with a Moleskine Style pocket in the back (not that you can see that in the pictures).
 
