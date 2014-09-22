@@ -101,4 +101,6 @@ I punched two holes in the back cover and tied a simple loop in the elastic. Wor
 
 Some detailing with leather stamps to make it mine. I would recomend wiping down the leather with water first (holds the stamp better) and you should just do the whole book to keep the color the same.
 
+![IMAG0172.jpg](/media/IMAG0172.jpg)
+
 Lastly I tried to do some edge finishing following this (and other similar guides)
