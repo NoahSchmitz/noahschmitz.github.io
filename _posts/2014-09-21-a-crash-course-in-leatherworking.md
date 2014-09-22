@@ -7,7 +7,7 @@ title: "A Crash Course in Leatherworking!"
 ## Good thing I got the Leatherworking Merit Badge!
 ###Except not, becuase that taught me nothing other than how to use stamps...
 
-I have worn leather belts before. I have also wrapped strips of leather around handles to make them look cooler. None of this really prepared me for my latest project.
+I have worn leather belts before. I have also wrapped strips of leather around handles to make them look cooler. None of this really prepared me for my latest project. Fortunantly it really is pretty simple.
 
 ##Epic BackStory Time!
 
