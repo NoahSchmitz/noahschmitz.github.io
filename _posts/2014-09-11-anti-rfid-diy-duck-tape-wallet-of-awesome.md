@@ -36,7 +36,8 @@ You are going to begin by deciding the dimensions of your wallet. Mine is roughl
 
 As you can see, I also decided to make the back of panel A out of Gorilla Tape (for extra strength) and to sandwich some Aluminum Foil in the B section for RFID blocking for my cards.
 
-![Figure Z...](https://raw.githubusercontent.com/NoahSchmitz/noahschmitz.github.io/master/_posts/Wallet%203.png)
+![Figure Z...]![Wallet 3.png](/media/Wallet 3.png)
+
 
 Then simply follow these instructions to get the basic shape. You should end up with a simple billfold style wallet with a check (or other long paper) pocket on the left.
 Note: If you don't want that extra side pocket, tape 5 to 6 right after you tape 8 to 9, or simply remove panel A (which may decrease durability).
