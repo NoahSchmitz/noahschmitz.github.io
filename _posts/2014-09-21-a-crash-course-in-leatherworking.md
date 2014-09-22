@@ -107,5 +107,8 @@ Some detailing with leather stamps to make it mine. I would recomend wiping down
 
 Lastly I tried to do some edge finishing following this guide. It sure did help, but I had basically none of the proper tools. I will maybe re-visit this part if I get better tools.
 
-<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/UsxqMb6br38?rel=0" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/UsxqMb6br38?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
+I hope this helps someone with similar desires to me. End product is pretty cool.
+
+![IMAG0174.jpg](/media/IMAG0174.jpg)
