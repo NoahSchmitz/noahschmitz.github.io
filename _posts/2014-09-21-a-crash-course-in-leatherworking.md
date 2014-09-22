@@ -20,9 +20,28 @@ Normally I would be kinda, meh. However, in a few short months I will be setting
 I bought a bunch of [Black Field Notes](http://fieldnotesbrand.com/shop/pitchblack/ "Black Goes With Everything"), and I think they fit the bill. However, I know my back pocket will destroy them (if my wallet is anything to go by).
 
 ##An Answer Presents Itself
+Buckle up, this ones gonna get long.
 
 Originally I was thingking of something like [this](saddlebackleather.com/moleskinecover "Saddleback Leather!")
 
 ![Super Expensive Leather Cover!](/http://the-gadgeteer.com/wp-content/uploads/2010/12/saddleback-notebook-cover-1.jpg)
 
 And that would be awesome. Just one problem, I bought Field Notes, Not a [Moleskine](http://moleskine.com/us/collections/model/product/squared-soft-notebook-pocket "Fancy Notebooks!") So I wouldnt be able to use the cool elastic thing.
+
+No big deal Field Notes themselves sell a few [leather](http://fieldnotesbrand.com/storage/leather/ "Most Expensive Yet!") covers designed specifically for Feild Notes! Wait. They are 85$. Forget it! That is even more than SaddleBack, which is always expensive.
+
+There are a v[ariety of cheap ones on Etsy](https://www.etsy.com/market/field_notes_cover "Cheap! At last.") and the like, but we are looking at at least 40$ and very few are **exactly** what I want.
+
+#Noah, Why Did You Bother to Show Me all of That?
+
+Well, don't you see? These are all expensive, or not perfect. There is but one obvious solution! I need to make one myself! (cheaply and in my own idiom)
+
+#But Noah, that sounds hard!
+
+Get of my site. Now.
+
+##Yay For DIY Nonesense!
+
+I decided what I wanted was a leather cover that would hold *one* book and stay closed without obstucting the cool inside of the Field Notes Covers (they have contact info and a ruler and stuff!) Also a bookmark.
+
+##Mark One
