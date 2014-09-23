@@ -81,8 +81,7 @@ I used a piece of 2-3oz leather for a balance between thin and stiff.
 
 At some point in this process I stumbled across this (long) YouTube Video, which is similar to what I want.
 
-<center><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/hCYAnmQnn6w?rel=0" frameborder="0" allowfullscreen></iframe></center>
-<!--Yeah I used the center tag. Deal with it. Even You Adam-->
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/hCYAnmQnn6w?rel=0" frameborder="0" allowfullscreen></iframe>
 
 You can watch the whole thing, or just keep reading.
 
