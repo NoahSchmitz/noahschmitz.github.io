@@ -36,6 +36,12 @@ img {
   /*box-shadow: 1;*/
 }
 
+iframe {
+  margin: auto;
+  max-width: 75%;
+  
+}
+
 /*
  * Global resets
  *
