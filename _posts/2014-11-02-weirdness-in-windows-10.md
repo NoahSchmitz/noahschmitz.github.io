@@ -32,7 +32,16 @@ Nope.
 
 ![Failure.PNG](/_posts/Failure.PNG)
 
-For some unfathomable reason, Microsoft has made the box I need unclickable
+For some unfathomable reason, Microsoft has made the box I need unclickable (the Target box)
+
+Well what if I just remove that and make my own that I then re-pin?
+
+I just make a shortcut
+
+and point it at: 
+'<C:\Windows\explorer.exe shell:::{20D04FE0-3AEA-1069-A2D8-08002B30309D}>'
+
+
 
 
 
