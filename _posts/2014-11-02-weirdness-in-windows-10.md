@@ -43,7 +43,8 @@ I just make a shortcut
  
 and point it at:
 
-![](/)
+![Dat Link.png](/media/Dat Link.png)
+
 >C:\Windows\explorer.exe shell:::{20D04FE0-3AEA-1069-A2D8-08002B30309D} 
 
 ^That madness is just a fancy way of linking right to "This PC"^
