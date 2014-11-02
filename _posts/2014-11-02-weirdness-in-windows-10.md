@@ -26,7 +26,7 @@ So I set out to have it default to "This PC" which is slightly more usefull than
 
 I typically launch Explorer from the Start Bar (not to be confused with the screen or Menu) It is always visible, and very convienient. So _technically_ I should just be able to change the shortcut on my bar right?
 
-
+![properties.png](/media/properties.png)
 
 Nope.
 
