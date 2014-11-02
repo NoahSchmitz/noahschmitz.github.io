@@ -14,7 +14,7 @@ However, since the product was made by Microsoft, there is some weirdness. When 
  
 But for some reason mine looks like this after the latest update: 
  
-![Fail](/media/fail.png)
+![Dat Link.png](/media/Fail.PNG)
  
 I don't _think_ I did anything to break it, but broke it is. After messing around in the registry trying to get something (or anything) to show up in my home, I gave up. I never use the "Home" anyway. However it was really annoying having it default to something useless. 
  
@@ -38,7 +38,8 @@ Well what if I just remove that and make my own that I then re-pin?
  
 I just make a shortcut
 
-![Shorty.png](/_posts/Shorty.png)
+![Shorty.png](/media/Shorty.png)
+
  
 and point it at:
 
