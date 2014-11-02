@@ -1,9 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Weirdness in Windows 10
 ---
-
 
 ## This Is Why We Use Linux. 
  
@@ -72,4 +71,5 @@ So I deleted both of those two .lnk files (the .lnk may not show, but that's wha
  
 With my own "File Explorer.lnk" (that shortcut I made before). I can now pin that to my bar and everything seems to be working (as of writing this) 
  
-Comments, Questions, or Criticisms? Put it in the comments. 
+ 
+Comments, Questions, or Criticisms? Put it in the comments.
