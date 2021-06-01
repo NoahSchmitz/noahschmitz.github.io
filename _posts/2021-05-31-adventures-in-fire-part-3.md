@@ -26,10 +26,12 @@ I'm not going to talk about 3D prints here, that's a whole nother ballgame. I fr
 
 Unfortunantly I don't have any pictures of this step, but I do have some thoughts on this process. Simply mixing plaster of paris and water seems to work well, although I see some people recomend including sand.
 
-The main issues I have had are making the mold edges so thick, that it's difficult to heat the inside enough to burn out the mold. Making the edges on the thinner side, and putting the mold suspended upside down over a catch tray, let the PLA melt out much easier. 
+The main issues I have had are making the mold edges so thick, that it's difficult to heat the inside enough to burn out the mold. Making the edges on the thinner side, seems to help quite a bit. I generally use paper or foam cups, but antything you can easily peel off plaster should work fine.
 
 ### 3
 
+In my first attempts, I figured at high enough tempuratures the PLA would essentially vaporize, however I had much better success putting the mold suspended upside down over a catch tray, and letting the PLA melt out, before mostly burning off.
 
+### 4
 
-
+The company that manufactures the kiln I purchased sell other products like [this](https://www.amazon.com/Tabletop-QuikMelt-PRO-120-Melting-Furnace/dp/B07888X23W/ref=sr_1_33?dchild=1&keywords=PMC+Supplies+LLC&qid=1622521920&sr=8-33)
