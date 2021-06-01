@@ -18,3 +18,18 @@ My methodollogy for casting now that I have a very reliable/consistent heat sour
 5.Pour molten metal into mold
 6.Break off plaster mold
 
+### 1
+
+I'm not going to talk about 3D prints here, that's a whole nother ballgame. I frequently use my schools or father's printer, becuase keeping printers running and clog free is a pain.
+
+### 2
+
+Unfortunantly I don't have any pictures of this step, but I do have some thoughts on this process. Simply mixing plaster of paris and water seems to work well, although I see some people recomend including sand.
+
+The main issues I have had are making the mold edges so thick, that it's difficult to heat the inside enough to burn out the mold. Making the edges on the thinner side, and putting the mold suspended upside down over a catch tray, let the PLA melt out much easier. 
+
+### 3
+
+
+
+
