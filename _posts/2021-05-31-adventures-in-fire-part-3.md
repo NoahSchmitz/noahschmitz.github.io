@@ -7,4 +7,14 @@ title: Adventures in Fire - Part 3
 
 The Last time I tried anything with metal casting was back in 2014, when I was a senior in highschool. Now, 7 years later, I have signifigantly more common sense, and perhaps even more importantly, Money.
 
-With my newfound funding, curtesy of a soul sucking job, I purchased this [kiln](https://www.amazon.com/gp/product/B07H43Q81K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H43Q81K&linkCode=as2&tag=tk4210b-20&linkId=dbe018d906b437b36624f86786af3367/)
+With my newfound funding, curtesy of a soul sucking job, I purchased this [kiln](https://www.amazon.com/gp/product/B07H43Q81K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H43Q81K&linkCode=as2&tag=tk4210b-20&linkId=dbe018d906b437b36624f86786af3367/) to do PLA burnouts.
+
+My methodollogy for casting now that I have a very reliable/consistent heat source is essentially the following:
+
+1.3D print an object
+2.Make a plaster mold around the 3D print
+3.Dry and burnout mold in the kiln
+4.Melt metal
+5.Pour molten metal into mold
+6.Break off plaster mold
+
